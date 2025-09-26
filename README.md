@@ -3,7 +3,7 @@ This system automatically capture your photo by detecting your smile.
 <br>
 Author- Harvansh Singh
 <br><br>
-test.py (Smile Detection Engine):
+<u><b>test.py (Smile Detection Engine):</u></b>
 <br>
 Camera & AI Setup: Initializes webcam and loads pre-trained face/smile detection models<br>
 Real-time Processing: Continuously captures video frames and analyzes them<br>
@@ -13,7 +13,7 @@ File Management: Creates timestamped selfies in organized directory structure<br
 User Interface: Shows live detection status, rectangles around faces/smiles, and instructions<br>
 Resource Management: Properly releases camera and closes windows on exit<br>
 <br><br>
-main.py (GUI Application):
+<u><b>main.py (GUI Application):</u></b>
 <br>
 Professional Interface: Creates attractive desktop application with images and buttons<br>
 Image Handling: Loads interface images with fallback colored rectangles if files missing<br>
